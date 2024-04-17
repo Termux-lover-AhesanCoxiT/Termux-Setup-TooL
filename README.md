@@ -2,6 +2,6 @@
 This is Termux Setup TooL 
 
 
-- git clone http://github.com/Termux-lover-AhesanCoxiT/Termux-Serup-TooL.git
+- git clone https://github.com/Termux-lover-AhesanCoxiT/Termux-Setup-TooL.git
 - cd Termux-Setup-TooL
 - python Termux-setup.py
